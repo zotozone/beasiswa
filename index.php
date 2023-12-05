@@ -52,7 +52,7 @@
                                     <input type="text" name="email" id="email" class="form-control" required>                          
                                 </div>
                                 <div class="mb-3">
-                                    <label for="ipk" class="form-label fw-bold">Telepon</label>
+                                    <label for="telp" class="form-label fw-bold">Telepon</label>
                                     <input type="text" name="telp" id="telp" class="form-control" required>                          
                                 </div>
                                 <div class="mb-3">
@@ -71,7 +71,7 @@
                                 </div> 
                                 <div class="mb-3">
                                     <label for="ipk" class="form-label fw-bold">IPK</label>
-                                    <input type="text" name="ipk" id="ipk" class="form-control" required readonly>                          
+                                    <input type="text" name="ipk" id="ipk" style="background:#E9ECEF" class="form-control" required readonly>                          
                                 </div>
                                 <div class="mb-3">
                                     <label for="jenis" class="form-label fw-bold">Jenis Beasiswa</label>
